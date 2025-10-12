@@ -1,0 +1,22 @@
+.bold {
+    font-weight: 900;
+}
+
+.cur {
+    font-style: italic;
+}
+
+.font {
+    font-family: Arial, sans-serif;
+}
+
+.color {
+    color: firebrick;
+}
+
+.bg {
+    background: url("/img/2249252.png") no-repeat center center;
+    background-size: cover;
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+}
