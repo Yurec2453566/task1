@@ -15,11 +15,7 @@
 }
 
 .bg {
-<<<<<<< HEAD
-    background: url('/img/i.webp') no-repeat center center;
-=======
-    background: url("../img/2249252.png") no-repeat center center;
->>>>>>> 2feb88fa72ced8b14c0712f0ea650c6d3c7679ba
+    background: url("../img/i.png") no-repeat center center;
     background-size: cover;
     min-height: 100vh;
     font-family: Arial, sans-serif;
